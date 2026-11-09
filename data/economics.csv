@@ -1,0 +1,4 @@
+key,value,unit,source_id
+CAD_PER_USD_2023,1.3497,CAD per USD (annual average),BOC_FX
+CPI_U_2022,292.655,index 1982-84=100,BLS_CPI
+CPI_U_2023,304.702,index 1982-84=100,BLS_CPI

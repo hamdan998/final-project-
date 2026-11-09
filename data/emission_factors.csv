@@ -1,0 +1,7 @@
+factor_id,kind,key,value,unit,life_cycle_scope,geography,year,source_id
+MAT_PP,material,polypropylene,3.10472699,kg CO2e per kg,cradle-to-gate (production of the material and forming),UK,2022,DEFRA_2022_PP
+MAT_RUBBER,material,synthetic_rubber,3.42,kg CO2e per kg,cradle to shelf,Australia,2019,ICM_2019_RUBBER
+WASTE_HTI,waste,high_temperature_incineration,1.074,kg CO2e per kg,treatment + transport (949 + 125 kg CO2e per tonne),UK hospital,2021,RIZAN_WASTE
+WASTE_AUTOCLAVE_EFW,waste,autoclave_then_energy_from_waste,0.569,kg CO2e per kg,autoclave + incineration with energy recovery + transport,UK hospital,2021,RIZAN_WASTE
+WASTE_EFW,waste,energy_from_waste,0.172,kg CO2e per kg,incineration with energy recovery + transport (domestic waste),UK hospital,2021,RIZAN_WASTE
+SPEND_339113,spend,NAICS_339113,0.14,kg CO2e per USD (2022 purchaser price),supply chain to point of sale (with margins),USA,2022,EPA_USEEIO

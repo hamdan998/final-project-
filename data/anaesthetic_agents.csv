@@ -1,0 +1,5 @@
+agent,gwp100,gwp_source_id,specific_gravity,bottle_ml,label_source_id
+desflurane,2590,IPCC_AR6_DES,1.465,240,FDA_SUPRANE
+sevoflurane,195,IPCC_AR6_SEVO,1.520,250,FDA_SEVO
+isoflurane,539,IPCC_AR6_SEVO,,,
+nitrous_oxide,273,IPCC_AR6_SEVO,,,

@@ -1,0 +1,10 @@
+product_id,component,material,mass_g,source_id
+GLOVE_NITRILE,glove,synthetic_rubber,3.23,RIZAN_PPE
+MASK_IIR,non-woven layers,polypropylene,1.63,RIZAN_PPE
+MASK_IIR,melt-blown filter layer,polypropylene,0.82,RIZAN_PPE
+MASK_IIR,ear loops,synthetic_rubber,0.45,RIZAN_PPE
+MASK_IIR,nose wire,aluminium,0.20,RIZAN_PPE
+GOWN_SURGICAL,gown fabric,polypropylene,134.74,RIZAN_PPE
+GOWN_SURGICAL,cuffs and ties,synthetic_rubber,7.72,RIZAN_PPE
+DRAPES_GYN_CASE,drapes,polypropylene,590.566,WATERS_DRAPES
+GLOVE_TOPGLOVE,glove,synthetic_rubber,3.5,TOPGLOVE_2024

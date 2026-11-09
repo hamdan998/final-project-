@@ -1,0 +1,5 @@
+product_id,price,currency,price_year,pack_price,pack_size,matched_item,match_quality,source_id
+GLOVE_NITRILE,0.231,CAD,2023,23.10,100,"Nitrile exam gloves, latex-free, powder-free (box of 100)",same product type,AHS_PRICES
+MASK_IIR,0.935,CAD,2023,46.75,50,"Procedure mask with ear loops, level 3 (box of 50)",similar product (ASTM level 3 procedure mask vs Type IIR surgical mask),AHS_PRICES
+GOWN_SURGICAL,3.68,CAD,2023,3.68,1,"Isolation gown with knit cuff (each)",different product (isolation gown vs reinforced surgical gown),AHS_PRICES
+GLOVE_TOPGLOVE,0.231,CAD,2023,23.10,100,"Nitrile exam gloves, latex-free, powder-free (box of 100)",same product type (brand not stated),AHS_PRICES

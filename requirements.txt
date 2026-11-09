@@ -1,0 +1,6 @@
+pandas>=2.0
+matplotlib>=3.7
+altair>=5.0
+streamlit>=1.50
+pytest>=8.0
+notebook>=7.0

@@ -1,0 +1,6 @@
+product_id,name,unit,naics,default_waste_route,notes
+GLOVE_NITRILE,Nitrile examination glove,one glove,339113,high_temperature_incineration,Example product in Rizan et al.: Schottlander Soft touch flexible nitrile (made in Malaysia).
+MASK_IIR,Surgical face mask (Type IIR),one mask,339113,high_temperature_incineration,Example product in Rizan et al.: 3-ply mask with ear loops.
+GOWN_SURGICAL,Single-use surgical gown (reinforced),one gown,339113,high_temperature_incineration,Example product in Rizan et al.: reinforced surgical gown.
+DRAPES_GYN_CASE,Single-use surgical drapes for one gynecological operation,drapes of one operation (average),339113,high_temperature_incineration,"Average of 159 operations: 93.9 kg / 159 = 0.5906 kg of polypropylene drapes per operation (Waters et al.)."
+GLOVE_TOPGLOVE,"Nitrile examination glove, Top Glove 3.5 g",one glove,339113,high_temperature_incineration,"Top Glove conventional nitrile powder-free glove, size M, 3.5 g. Tier 1 only if this is the glove the hospital actually buys."

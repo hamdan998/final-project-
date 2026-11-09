@@ -1,0 +1,5 @@
+product_id,tier,kg_co2e_per_unit,life_cycle_scope,includes_packaging,source_id
+GLOVE_NITRILE,2,0.026,cradle-to-grave (materials manufacture transport packaging high-temperature incineration),yes,RIZAN_PPE
+MASK_IIR,2,0.020,cradle-to-grave (materials manufacture transport packaging high-temperature incineration),yes,RIZAN_PPE
+GOWN_SURGICAL,2,0.905,cradle-to-grave (materials manufacture transport packaging high-temperature incineration),yes,RIZAN_PPE
+GLOVE_TOPGLOVE,1,0.0277,cradle-to-grave (raw material extraction to disposal),not stated,TOPGLOVE_2024
